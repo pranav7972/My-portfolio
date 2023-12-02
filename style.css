@@ -1,0 +1,40 @@
+.body{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 50px;
+    
+}
+.containe{
+    background-color: #fcfcfc;
+    border-radius: 50px;
+}
+.wp-image-1116{
+    border-radius: 20px;
+}
+.display-{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.Portfolio
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.py-6{
+    margin-top: 100px;
+}
+.co{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.aboutme{
+    margin-top: 90px;
+}
+.ourm{
+    margin-top: 60px;
+}
