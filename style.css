@@ -38,6 +38,6 @@
 .ourm{
     margin-top: 60px;
 }
-.aboutme img{
+.aboutme > img{
     border-radius: 30px;
 }
